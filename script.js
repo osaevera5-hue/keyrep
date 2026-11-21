@@ -4,15 +4,8 @@
    Website JavaScript
 ========================================= */
 
-/*
-  IMPORTANT:
-  Replace the placeholder below with the
-  business WhatsApp number.
-
-  Ghana example: 233241234567
-  Do not include +, spaces or hyphens.
-*/
-const BUSINESS_WHATSAPP = "233XXXXXXXXX";
+ 
+const BUSINESS_WHATSAPP = "233547854555";
 
 // MOBILE NAVIGATION
 const menuToggle = document.getElementById("menuToggle");
